@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bharani Kudala</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
+<p>&nbsp;<img align="center" src="https://github.com/vivekweb2013/vivekweb2013/raw/main/developer.gif" width="500" height="300">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharani-bunny&label=Profile%20views&color=0e75b6&style=flat" alt="bharani-bunny" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
