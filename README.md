@@ -32,4 +32,4 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=bharani-bunny&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-bunny&layout=compact&theme=radical" /></p>
+<p>&nbsp;<img align="center" width = "500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-bunny&layout=compact&theme=radical" /></p>
