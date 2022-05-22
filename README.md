@@ -32,5 +32,10 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=bharani-bunny&bg_color=141321&color=fe428e&line=f8d847&point=f8d847&area=true&hide_border=true">
 
+<p align="center">
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-bunny&layout=compact&theme=radical" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharani-bunny&repo=CodeChef-Practice&theme=radical&show_owner=true" />
+</p>
+
 <p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="1000" /> </p>
 
