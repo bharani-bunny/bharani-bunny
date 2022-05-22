@@ -34,7 +34,7 @@
 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-bunny&layout=compact&theme=radical" />
-   <a href="https://github.com/anuraghazra/github-readme-stats">
+   <a href="https://github.com/bharani-bunny/CodeChef-Practice">
       <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharani-bunny&repo=CodeChef-Practice&theme=radical&show_owner=true" />
    </a>
 </p>
