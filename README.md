@@ -34,7 +34,9 @@
 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-bunny&layout=compact&theme=radical" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharani-bunny&repo=CodeChef-Practice&theme=radical&show_owner=true" />
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bharani-bunny&repo=CodeChef-Practice&theme=radical&show_owner=true" />
+   </a>
 </p>
 
 <p align="center"> <img src="https://github.com/arpanaditya/arpanaditya/blob/output/github-contribution-grid-snake.svg" width="1000" /> </p>
