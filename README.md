@@ -31,7 +31,7 @@ I am Bharani, currently pursuing my Under Graduation in computer science from [G
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bharani-bunny&theme=radical" />
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=bharani-bunny&theme=redical&count_private=false">
+<img src="https://activity-graph.herokuapp.com/graph?username=bharani-bunny&theme=redical&count_private=true">
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharani-bunny&layout=compact&theme=radical" />
    <a href="https://github.com/bharani-bunny/CodeChef-Practice">
