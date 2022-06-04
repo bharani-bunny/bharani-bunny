@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> I am Bharani Kudala. Glad to see you here!</h1>
+<h1 align="center"> Hi, 👋 I am Bharani Kudala. Glad to see you here!</h1>
 
  I am Bharani, currently pursuing my Under Graduation in computer science from [GPREC](https://www.gprec.ac.in/). I am a tech enthusiast.
 
